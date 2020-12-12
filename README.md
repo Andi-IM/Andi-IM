@@ -4,9 +4,6 @@
 - 📫 reach me on twitter [@im_andi22](https://twitter.com/im_andi22) 
 - :jp: Dreamin for Master Degree in Japan
 
-- name: Profile Readme Stats
-  uses: teoxoy/profile-readme-stats@v1
-
 <!--
 **Andi-IM/Andi-IM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
