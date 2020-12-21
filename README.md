@@ -15,3 +15,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### My Performance on Github
+![github stats](https://github-readme-stats.vercel.app/api?username=Andi-IM&show_icons=true)
