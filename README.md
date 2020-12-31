@@ -21,6 +21,3 @@
 
 ### My Developing Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andi-IM&layout=compact)
-
-### My Time Used on Developing
-![Andi-IM's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Andi_IM)
