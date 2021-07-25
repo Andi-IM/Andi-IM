@@ -18,7 +18,6 @@
 -->
 
 ### My Performance on Github
-![github stats](https://github-readme-stats.vercel.app/api?username=Andi-IM&show_icons=true)
 
-### My Developing Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andi-IM&layout=compact)
+| ![github stats](https://github-readme-stats.vercel.app/api?username=Andi-IM&show_icons=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andi-IM&layout=compact) |
+| ----------- | ----------- |
