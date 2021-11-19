@@ -1,6 +1,6 @@
 ### Hi, I'm Andi
 - :school: focused Software Engineering in Padang State Polytechnics for Applied Science
-- 🌱 I’m currently learning Flutter 🐦
+- 🌱 I’m currently learning Flutter 🎯
 - 📫 reach me on twitter [@im_andi22](https://twitter.com/im_andi22) 
 - 🇯🇵 Dreamin for Master Degree in Japan
 - 📎 my [gitlab account](https://gitlab.com/andi-IM)
